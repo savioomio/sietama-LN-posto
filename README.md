@@ -35,7 +35,7 @@ O Posto Licínio é um sistema desktop desenvolvido para facilitar o gerenciamen
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/savioomio/posto-licinio.git
+   git clone https://github.com/savioomio/sietama-LN-posto.git
    cd posto-licinio
    ```
 
